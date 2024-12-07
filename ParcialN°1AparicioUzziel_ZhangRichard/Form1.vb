@@ -1,5 +1,3 @@
-﻿'Richard Zhang 8-988-1571'
-'Uzziel Aparicio 8-978-1512'
 Public Class Form1
     Dim nombreCliente As String
     Dim sexoCliente As String
