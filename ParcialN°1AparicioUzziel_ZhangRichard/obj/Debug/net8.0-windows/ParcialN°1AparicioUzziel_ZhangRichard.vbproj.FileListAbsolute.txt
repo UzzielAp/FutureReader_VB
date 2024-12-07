@@ -1,0 +1,16 @@
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\bin\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.exe
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\bin\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.deps.json
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\bin\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.runtimeconfig.json
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\bin\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.dll
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\bin\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.pdb
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN_1AparicioUzziel_ZhangRichard.Form1.resources
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.vbproj.GenerateResource.cache
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.AssemblyInfoInputs.cache
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.AssemblyInfo.vb
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.vbproj.CoreCompileInputs.cache
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.dll
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\refint\ParcialN°1AparicioUzziel_ZhangRichard.dll
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.pdb
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ParcialN°1AparicioUzziel_ZhangRichard.genruntimeconfig.cache
+C:\Users\uzzie\source\repos\ParcialN°1AparicioUzziel_ZhangRichard\ParcialN°1AparicioUzziel_ZhangRichard\obj\Debug\net8.0-windows\ref\ParcialN°1AparicioUzziel_ZhangRichard.dll

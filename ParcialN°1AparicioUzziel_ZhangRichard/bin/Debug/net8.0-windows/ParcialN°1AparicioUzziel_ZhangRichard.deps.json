@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParcialN°1AparicioUzziel_ZhangRichard/1.0.0": {
+        "runtime": {
+          "ParcialN°1AparicioUzziel_ZhangRichard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParcialN°1AparicioUzziel_ZhangRichard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
